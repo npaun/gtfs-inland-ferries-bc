@@ -1,0 +1,29 @@
+stop_id,stop_name,stop_lat,stop_lon,wheelchair_boarding
+KOOTLK_1,Balfour Ferry Terminal,,,1
+KOOTLK_2,Kootenay Bay,,,1
+ARROWPK_1,Highway 6,,,0
+ARROWPK_1,Arrow Park,,,0
+NEEDLES_1,Fauquier,,,0
+NEEDLES_2,Needles,,,0
+ARROWLK_1,Galena Bay,,,0
+ARROWLK_2,Shelter Bay,,,0
+HARROP_1,Highway 3A,,,0
+HARROP_2,Harrop,,,0
+GLADE_1,Highway 3A,,,0
+GLADE_2,Glade,,,0
+BARNSTON_1,Port Kells,,,0
+BARNSTON_2,Barnston Island,,,0
+FRANCOIS_1,Francois Lake,,,0
+FRANCOIS_2,Southbank,,,0
+USK_1,South Usk,,,0
+USK_2,North Usk,,,0
+ADAMS_1,South side??,,,0
+ADAMS_2,North side??,,,0
+BIGBAR_1,South side??,,,0
+BIGBAR_2,North side??,,,0
+LITTLEFORT_1,Little Fort,,,0
+LITTLEFORT_2,East side??,,,0
+LYTTON_1,East side??,,,0
+LYTTON_2,West side??,,,0
+MCLURE_1,McLure,,,0
+MCLURE_2,West side??,,,0

@@ -1,0 +1,15 @@
+route_id,agency_id,route_long_name,route_type,route_color,route_text_color
+ADAMS,MTI,Adams Lake Cable Ferry,4,14446B,FFFFFF
+ARROWPK,MTI,Arrow Park Cable Ferry,4,14446B,FFFFF
+BARNSTON,MTI,Barnston Island Ferry,4,14446B,FFFFF
+BIGBAR,MTI,Big Bar Reaction Ferry,4,14446B,FFFFF
+FRANCOIS,MTI,Francois Lake Ferry,4,14446B,FFFFF
+GLADE,MTI,Glade Cable Ferry,4,14446B,FFFFFF
+HARROP,MTI,Harrop Cable Ferry,4,14446B,FFFFFF
+KOOTLK,MTI,Kootenay Lake Ferry,4,14446B,FFFFFF
+LITTLEFORT,MTI,Little Fort Reaction Ferry,4,14446B,FFFFFF
+LYTTON,MTI,Lytton Reaction Ferry,4,14446B,FFFFFF
+MCLURE,MTI,McLure Reaction Ferry,4,14446B,FFFFFF
+NEEDLES,MTI,Needles Cable Ferry,4,14446B,FFFFFF
+ARROWLK,MTI,Upper Arrow Lake Ferry,4,14446B,FFFFFF
+USK,MTI,Usk Reaction Ferry,4,14446B,FFFFFF
