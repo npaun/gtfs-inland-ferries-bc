@@ -1,0 +1,4 @@
+service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+R,1,1,1,1,1,1,1,20240101,20340101
+KOOTLK_SUMMER,1,1,1,1,1,1,1,20240624,20240902
+FRANCOIS_SCHOOL,1,1,1,1,1,1,1,20240101,20240701
