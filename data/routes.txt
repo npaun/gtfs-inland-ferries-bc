@@ -1,9 +1,9 @@
 route_id,agency_id,route_long_name,route_type,route_color,route_text_color
 ADAMS,MTI,Adams Lake Cable Ferry,4,14446B,FFFFFF
-ARROWPK,MTI,Arrow Park Cable Ferry,4,14446B,FFFFF
-BARNSTON,MTI,Barnston Island Ferry,4,14446B,FFFFF
-BIGBAR,MTI,Big Bar Reaction Ferry,4,14446B,FFFFF
-FRANCOIS,MTI,Francois Lake Ferry,4,14446B,FFFFF
+ARROWPK,MTI,Arrow Park Cable Ferry,4,14446B,FFFFFF
+BARNSTON,MTI,Barnston Island Ferry,4,14446B,FFFFFF
+BIGBAR,MTI,Big Bar Reaction Ferry,4,14446B,FFFFFF
+FRANCOIS,MTI,Francois Lake Ferry,4,14446B,FFFFFF
 GLADE,MTI,Glade Cable Ferry,4,14446B,FFFFFF
 HARROP,MTI,Harrop Cable Ferry,4,14446B,FFFFFF
 KOOTLK,MTI,Kootenay Lake Ferry,4,14446B,FFFFFF
