@@ -4,6 +4,8 @@ This is an unofficial GTFS feed for the BC's inland ferry system.
 
 For more information on the service please see the [official website](https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries).
 
+### Permalink to download the latest feed: <https://github.com/npaun/gtfs-inland-ferries-bc/blob/master/inland-ferries-bc-gtfs.zip>
+
 ## Scheduled services
 
 * Most service operates every day of the year (service\_id R).
